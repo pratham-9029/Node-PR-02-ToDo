@@ -25,7 +25,7 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/demo.gif
+https://node-pr-02-to-do.vercel.app/
 
 *Manage your todos with ease - Add, Edit, and Delete tasks in real-time*
 
